@@ -1,7 +1,7 @@
 {
  
   System.out.println("hello world");
-  System.out.println("˜ì •1");
+  System.out.println("test1");
 	a += 1;
 	println(a);
 	int b = 3;
